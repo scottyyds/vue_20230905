@@ -1,0 +1,22 @@
+:root {
+    --mycolor01: #DD79F5;
+    --mycolor02: #86C3FC;
+    --mycolor03: #2DFCAA;
+    --mycolor04: #0E1323;
+    --mycolor05: #BA7B3B;
+    --mycolor06: #FFFFFF;
+    --mycolor07: #656565;
+    --mycolor08: #C0FF6B;
+    --mycolor09: #D5D5D5;
+    --mycolor10: #872B97;
+    --mycolor11: #FF7130;
+    --mycolor12: #FF3C68;
+    --mycolor13: #FFC709;
+}
+
+
+@media screen and (max-width: 1024px) {
+    .wrapper {
+        width: 95%;
+    }
+}
